@@ -4,6 +4,5 @@ scikit-learn>=0.23.1
 secure-smtplib>=0.1.1
 pygmail>=0.0.5.2
 jsonlib>=1.6.1
-os-sys>=2.1.4
 texteditor==1.3
 gunicorn
